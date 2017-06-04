@@ -28,8 +28,6 @@ function consultPairs (pairArr) {
             }
         });
     });
-
-    
 };
 
 
